@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jolygon
-- 👀 I’m interested in data journalism, web scraping, and more.
+- 👀 I’m interested in data journalism, web scraping, and political ecology.
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on climate journalism stories
 - 📫 How to reach me: linde.jonas@posteo.se
